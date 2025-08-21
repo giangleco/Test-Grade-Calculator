@@ -37,7 +37,8 @@
 #### *Các bước để chạy chương trình:
 
     B1. Vào môi trường ảo venv đã tạo từ trước bằng cáchc mở terminal và nhập (.\myvenv\Scripts\Activate.ps1) .
-    B2. Nhập  python hoang_giangle_grade_the_exams.py            
+    B2. Nhập  python hoang_giangle_grade_the_exams.py
+    B3. Nhập tên lớp mà bạn muốn kiểm tra (vd: class1, class2, ...)
 
 ## IV. Hỗ trợ
 1.các công cụ hỗ trợ\

@@ -45,8 +45,6 @@
 
 -gemini: <https://gemini.google.com/app?hl=vi>
 
--youtube: <https://www.youtube.com/watch?v=sTZz1ysyNhs&t=522s>
-
 Nếu mọi nguời chưa rõ hoặc có thắc mắc có thể liên hệ em qua!
 gmail:gianglehoang14205@gmail.com)
 

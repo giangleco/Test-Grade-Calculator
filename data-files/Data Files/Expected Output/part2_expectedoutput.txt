@@ -1,0 +1,160 @@
+Enter a class to grade (i.e. class1 for class1.txt): class1
+Successfully opened class1.txt
+
+**** ANALYZING ****
+
+No errors found!
+
+**** REPORT ****
+
+Total valid lines of data: 20
+Total invalid lines of data: 0
+
+
+>>> ================================ RESTART ================================
+>>> 
+Enter a class to grade (i.e. class1 for class1.txt): class2
+Successfully opened class2.txt
+
+**** ANALYZING ****
+
+Invalid line of data: does not contain exactly 26 values:
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+Invalid line of data: N# is invalid
+N0000002,B,A,D,D,C,B,D,A,C,D,D,D,A,,A,C,D,,A,C,A,A,B,D,D
+
+Invalid line of data: N# is invalid
+NA0000027,B,A,D,D,,B,,A,C,B,D,B,A,,A,C,B,D,A,,A,A,B,D,D
+
+Invalid line of data: does not contain exactly 26 values:
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+
+**** REPORT ****
+
+Total valid lines of data: 21
+Total invalid lines of data: 4
+
+
+>>> ================================ RESTART ================================
+>>> 
+Enter a class to grade (i.e. class1 for class1.txt): class3
+Successfully opened class3.txt
+
+**** ANALYZING ****
+
+No errors found!
+
+**** REPORT ****
+
+Total valid lines of data: 100
+Total invalid lines of data: 0
+
+
+>>> ================================ RESTART ================================
+>>> 
+Enter a class to grade (i.e. class1 for class1.txt): class4
+Successfully opened class4.txt
+
+**** ANALYZING ****
+
+Invalid line of data: does not contain exactly 26 values:
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+Invalid line of data: N# is invalid
+N0000062,B,A,A,D,D,B,D,A,C,C,,B,A,B,A,B,B,D,A,C,A,A,,D,D
+
+Invalid line of data: N# is invalid
+N000008A8,B,A,D,D,,,C,A,C,C,D,A,A,B,A,C,B,D,A,C,A,,,,D
+
+Invalid line of data: does not contain exactly 26 values:
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
+
+**** REPORT ****
+
+Total valid lines of data: 491
+Total invalid lines of data: 4
+
+
+>>> ================================ RESTART ================================
+>>> 
+Enter a class to grade (i.e. class1 for class1.txt): class5
+Successfully opened class5.txt
+
+**** ANALYZING ****
+
+No errors found!
+
+**** REPORT ****
+
+Total valid lines of data: 1000
+Total invalid lines of data: 0
+
+
+>>> ================================ RESTART ================================
+>>> 
+Enter a class to grade (i.e. class1 for class1.txt): class6
+Successfully opened class6.txt
+
+**** ANALYZING ****
+
+Invalid line of data: does not contain exactly 26 values:
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+
+**** REPORT ****
+
+Total valid lines of data: 300
+Total invalid lines of data: 1
+
+
+>>> ================================ RESTART ================================
+>>> 
+Enter a class to grade (i.e. class1 for class1.txt): class7
+Successfully opened class7.txt
+
+**** ANALYZING ****
+
+Invalid line of data: N# is invalid
+N0000194,B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,C,C,A,A,B,B,D
+
+Invalid line of data: does not contain exactly 26 values:
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+Invalid line of data: does not contain exactly 26 values:
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+Invalid line of data: N# is invalid
+N0000198O,B,A,B,D,C,B,D,B,C,C,D,B,C,B,A,C,B,,A,C,A,B,B,D,D
+
+Invalid line of data: N# is invalid
+F00000000,B,,A,D,,B,D,A,C,C,D,B,C,A,A,C,B,D,A,C,A,A,A,D,A
+
+Invalid line of data: does not contain exactly 26 values:
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+Invalid line of data: does not contain exactly 26 values:
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+
+**** REPORT ****
+
+Total valid lines of data: 193
+Total invalid lines of data: 7
+
+
+>>> ================================ RESTART ================================
+>>> 
+Enter a class to grade (i.e. class1 for class1.txt): class8
+Successfully opened class8.txt
+
+**** ANALYZING ****
+
+No errors found!
+
+**** REPORT ****
+
+Total valid lines of data: 49
+Total invalid lines of data: 0

@@ -47,7 +47,7 @@
 
 Nếu mọi nguời chưa rõ hoặc có thắc mắc có thể liên hệ em qua!
 
-gmail:gianglehoang14205@gmail.com)
+gmail:gianglehoang14205@gmail.com
 
 facebook:<https://www.facebook.com/giang.le.hoang.182180/?locale=vi_VN>
 
